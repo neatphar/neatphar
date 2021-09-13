@@ -10,8 +10,8 @@
 - 🌱 <samp>Future Goals.</samp>\
 - ✍️ <samp>Hobbies.</samp>\
 - 💬 <samp>Thoughts.</samp>\
-- ✉️ <samp>You can email me at dhadwal1507@gmail.com. I'll try to respond as soon as possible!\
-- 📄 <samp>You can check my [Resume](https://drive.google.com/file/d/1CqJoOAelUgnIOMNHqZAlMxR0F3nRoJuo/view?usp=sharing) for more details about work experience.
+- ✉️ <samp>Contacting.</samp>\
+- 📄 <samp>CV.</samp>\
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
