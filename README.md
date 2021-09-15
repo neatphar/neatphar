@@ -10,8 +10,8 @@
 - 🌱 <samp>I'm currently learning how to harness my automation desires along with Linux experience into a DevOps career.</samp>
 - ✍️ <samp>I like music, would love to explore hidden parts of the world, and casually game.</samp>
 - 💬 <samp>Thoughts.</samp>
-- ✉️ <samp>Feel free to contact ![me](https://github.com/neatphar/neatphar#-contacts) anytime!</samp>
-- 📄 <samp>CV.</samp>\
+- ✉️ <samp>Feel free to contact [me](https://github.com/neatphar/neatphar#-contacts) anytime!</samp>
+- 📄 <samp>CV.</samp>
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: ...
 
