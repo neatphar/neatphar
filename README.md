@@ -7,8 +7,8 @@
 - 💡 &nbsp;<samp>An enthusiast that likes to over-engineer everything..</samp> \
 - 💻 <samp>I like to code, automate, try everything new.</samp>\
 - 🎓 <samp>I study engineering in Mansoura University.</samp>\
-- 🌱 <samp>I'm currently learning how to implement my automation desires along with Linux experience into a DevOps career.</samp>\
-- ✍️ <samp>Hobbies.</samp>\
+- 🌱 <samp>I'm currently learning how to harness my automation desires along with Linux experience into a DevOps career.</samp>\
+- ✍️ <samp>I like music, would love to explore hidden parts of the world, and casually game.</samp>\
 - 💬 <samp>Thoughts.</samp>\
 - ✉️ <samp>Contacting.</samp>\
 - 📄 <samp>CV.</samp>\
