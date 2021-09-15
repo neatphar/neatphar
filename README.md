@@ -4,13 +4,13 @@
 [![GitHub neatphar](https://img.shields.io/github/followers/neatphar?label=follow&style=social)](https://github.com/neatphar)
 
 
-- 💡 &nbsp;<samp>An enthusiast that likes to over-engineer everything..</samp>
+- 💡 &nbsp;<samp>An enthusiast that likes to **over-engineer** everything..</samp>
 - 💻 <samp>I like to code, automate, try everything new.</samp>
-- 🎓 <samp>I study engineering in Mansoura University.</samp>
-- 🌱 <samp>I'm currently learning how to harness my automation desires along with Linux experience into a DevOps career.</samp>
+- 🎓 <samp>I study engineering in **Mansoura University**.</samp>
+- 🌱 <samp>I'm currently learning how to harness my automation desires along with Linux experience into a **DevOps career**.</samp>
 - ✍️ <samp>I like music, would love to explore hidden parts of the world, and casually game.</samp>
-- ✉️ <samp>Feel free to contact [me](https://github.com/neatphar/neatphar#-contacts) anytime!</samp>
-- 📄 <samp>Check out my [portfolio](https://neatphar.github.io/portfolio/)!.</samp>
+- ✉️ <samp>Feel free to contact [**me**](https://github.com/neatphar/neatphar#-contacts) anytime!</samp>
+- 📄 <samp>Check out my [**portfolio**](https://neatphar.github.io/portfolio/)!.</samp>
 <!-- - ⚡ <samp>Fun fact: ...</samp> -->
 
 ## 🛠 Tech Stack
