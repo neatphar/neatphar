@@ -9,13 +9,16 @@
 - 🎓 <samp>I study engineering in Mansoura University.</samp>
 - 🌱 <samp>I'm currently learning how to harness my automation desires along with Linux experience into a DevOps career.</samp>
 - ✍️ <samp>I like music, would love to explore hidden parts of the world, and casually game.</samp>
-- 💬 <samp>Thoughts.</samp>
 - ✉️ <samp>Feel free to contact [me](https://github.com/neatphar/neatphar#-contacts) anytime!</samp>
-- 📄 <samp>CV.</samp>
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: ...
+- 📄 <samp>Check out my [portfolio](https://neatphar.github.io/portfolio/)!.</samp>
+<!-- - ⚡ <samp>Fun fact: ...</samp> -->
 
 ## 🛠 Tech Stack
+
+### 🥼 Professional
+
+### ✨ Hobbyist
+
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -58,7 +61,7 @@
 ![](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 
 
-## 🛠 Tech Tools
+## 🧰 Tech Tools
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
