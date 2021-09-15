@@ -4,10 +4,10 @@
 [![GitHub neatphar](https://img.shields.io/github/followers/neatphar?label=follow&style=social)](https://github.com/neatphar)
 
 
-- 💡 &nbsp;<samp>Intro.</samp> \
-- 💻 <samp>What I do.</samp>\
-- 🎓 <samp>School.</samp>\
-- 🌱 <samp>Future Goals.</samp>\
+- 💡 &nbsp;<samp>An enthusiast that likes to over-engineer everything..</samp> \
+- 💻 <samp>I like to code, automate, try everything new.</samp>\
+- 🎓 <samp>I study engineering in Mansoura University.</samp>\
+- 🌱 <samp>I'm currently learning how to implement my automation desires along with Linux experience into a DevOps career.</samp>\
 - ✍️ <samp>Hobbies.</samp>\
 - 💬 <samp>Thoughts.</samp>\
 - ✉️ <samp>Contacting.</samp>\
