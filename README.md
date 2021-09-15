@@ -4,21 +4,15 @@
 [![GitHub neatphar](https://img.shields.io/github/followers/neatphar?label=follow&style=social)](https://github.com/neatphar)
 
 
-- 💡 &nbsp;<samp>An enthusiast that likes to over-engineer everything..</samp> \
-- 💻 <samp>I like to code, automate, try everything new.</samp>\
-- 🎓 <samp>I study engineering in Mansoura University.</samp>\
-- 🌱 <samp>I'm currently learning how to harness my automation desires along with Linux experience into a DevOps career.</samp>\
-- ✍️ <samp>I like music, would love to explore hidden parts of the world, and casually game.</samp>\
-- 💬 <samp>Thoughts.</samp>\
-- ✉️ <samp>Contacting.</samp>\
+- 💡 &nbsp;<samp>An enthusiast that likes to over-engineer everything..</samp>
+- 💻 <samp>I like to code, automate, try everything new.</samp>
+- 🎓 <samp>I study engineering in Mansoura University.</samp>
+- 🌱 <samp>I'm currently learning how to harness my automation desires along with Linux experience into a DevOps career.</samp>
+- ✍️ <samp>I like music, would love to explore hidden parts of the world, and casually game.</samp>
+- 💬 <samp>Thoughts.</samp>
+- ✉️ <samp>Feel free to contact ![me](https://github.com/neatphar/neatphar#-contacts) anytime!</samp>
 - 📄 <samp>CV.</samp>\
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: ...
 
 ## 🛠 Tech Stack
