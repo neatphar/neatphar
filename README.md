@@ -91,7 +91,11 @@ Sprints' Cloud DevOps iCamp. It is targeted for Egypt's Ministry of Communicatio
 
 ## 📈 Stats
 
-![neatphar's GitHub stats](https://github-readme-stats.vercel.app/api?username=neatphar&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=neatphar&show_icons=true&include_all_commits=true&hide=stars" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neatphar&layout=compact" />
+</p>
+
 
 ## 📫 Contacts
 
