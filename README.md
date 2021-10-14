@@ -1,7 +1,7 @@
 # 👻 Boo
 
 ![profile count](https://komarev.com/ghpvc/?username=neatphar&color=red)&nbsp;
-[![GitHub neatphar](https://img.shields.io/github/followers/neatphar?label=follow&style=social)](https://github.com/neatphar)
+[![GitHub neatphar](https://img.shields.io/github/followers/neatphar?label=follow&style=social)](https://github.com/neatphar?tab=followers)
 
 
 - 💡 &nbsp;<samp>An enthusiast that likes to **over-engineer** everything..</samp>
@@ -81,12 +81,28 @@
 
 ## 💭 Work Experience
 
-![](https://media-exp1.licdn.com/dms/image/C4E0BAQFHNx7MZ8vpKQ/company-logo_100_100/0/1611654018141?e=1642032000&v=beta&t=OMEX0ygpPX8tlLcYMU7IeoP5fxEe440h1wmEhVvSJME)
-DevOps Developer
-Sprints 
-Internship
-Aug 2021 – Oct 2021 (3 mos)
-Sprints' Cloud DevOps iCamp. It is targeted for Egypt's Ministry of Communications and Information Technology's NAID Assistive Technologies Program.
+<div>
+<table>
+<thead>
+  <tr>
+    <th colspan="2" rowspan="3"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFHNx7MZ8vpKQ/company-logo_100_100/0/1611654018141?e=1642032000&v=beta&t=OMEX0ygpPX8tlLcYMU7IeoP5fxEe440h1wmEhVvSJME" width="100" height="100"></th>
+    <th>DevOps Developer Intern</th>
+  </tr>
+  <tr>
+    <th>Sprints - Internship</th>
+  </tr>
+  <tr>
+    <th>Aug 2021 – Oct 2021 (3 mos)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2"></td>
+    <td>Sprints' Cloud DevOps iCamp. It is targeted for Egypt's Ministry of Communications and Information Technology's NAID Assistive Technologies Program.</td>
+  </tr>
+</tbody>
+</table>
+</div>
 
 
 ## 📈 Stats
