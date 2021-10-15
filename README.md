@@ -82,10 +82,10 @@
 ## 💭 Work Experience
 
 
-<!-- <p align="center">
-  <img align="center" src="https://i.imgur.com/Ds5K1Ta.png" />
+<p align="center">
+  <img align="center" src="https://i.imgur.com/ocugqM8.png" />
 </p>
- -->
+
 
 ## 📈 Stats
 
