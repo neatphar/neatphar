@@ -83,7 +83,7 @@
 
 
 <p align="center">
-  <img align="center" src="https://i.imgur.com/ocugqM8.png" />
+  <img align="center" src="https://i.imgur.com/ocugqM8.png" height="275"/>
 </p>
 
 
