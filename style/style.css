@@ -536,7 +536,7 @@ input:checked + .slider:before {
 /*********** MEDIA QUERIES *************/
 
 /* For really small screens, only show fullscreen mode */
-@media only screen and (max-width: 425px), (max-height: 425px) {
+@media only screen and (max-width: 800px), (max-height: 425px) {
 	#crt {
 		position: fixed;
 		left: 0;
