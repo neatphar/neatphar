@@ -22,12 +22,6 @@ async function boot() {
 			".....",
 			"Please wait........",
 			"..........",
-			"...",
-			".",
-			".",
-			".",
-			".",
-			"."
 		],
 		{ lineWait: 250 }
 	);
@@ -39,8 +33,12 @@ async function boot() {
 		finalWait: 3000
 	});
 
+	await type([" ", "> LOGGED IN AS ROOT."]);
+	await type(["OK.", " "]);
 	await pause();
-	return login();
+	clear();
+	await parse("help");
+	return main();
 }
 
 /** Login screen */

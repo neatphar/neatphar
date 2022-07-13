@@ -323,14 +323,14 @@ async function parse(input) {
 	let matches = String(input).match(/^(\w+)(?:\s((?:\w+(?:\s\w+)*)))?$/);
 
 	if (!matches) {
-		throw new Error("Invalid command");
+		throw new Error("Invalid command!");
 	}
 	let command = matches[1];
 	let args = matches[2];
 
 	let naughty = ["fuck", "shit", "die", "ass", "cunt"];
 	if (naughty.some((word) => command.includes(word))) {
-		throw new Error("Please don't use that language");
+		throw new Error("Please don't use that language!");
 	}
 
 	let module;
@@ -342,11 +342,11 @@ async function parse(input) {
 		console.error(e);
 		// Kinda abusing TypeError to check if the import failed
 		if (e instanceof TypeError) {
-			e.message = `Unknown command: ${command}`;
+			e.message = `Unknown command: ${command}!`;
 		}
 		// E.g. syntax error
 		else {
-			e.message = "Error while executing command";
+			e.message = "Error while executing command!";
 		}
 		throw e;
 	}
