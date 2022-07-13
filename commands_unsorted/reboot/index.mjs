@@ -1,6 +1,6 @@
 import { boot } from "../../util/screens.js";
 
-const output = "Good night.";
+const output = "Okay ;_;";
 
 export { output };
 export default () => boot();
