@@ -13,7 +13,7 @@ const jokes = [
 
 
 async function command() {
-	await type(random_pick(jokes), { lineWait: 1000 });
+	await type(random_pick(jokes), { initialWait: 500, lineWait: 1000 });
 	return; 
 }
 

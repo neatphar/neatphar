@@ -17,7 +17,8 @@ async function boot() {
 		 "|_|_|___|__,|_| |  _|_|_|__,|_|  ",
 		 "                |_|              ",
 	], {
-		lineWait: 50
+		lineWait: 15,
+		wait: 15
 	})
 
 	await type([" ", "Welcome to neatphar (TM) personal terminal"], {
