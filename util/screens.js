@@ -24,12 +24,13 @@ async function boot() {
 		initialWait: 2000
 	});
 
-	await type(["> SET TERMINAL/BOOT", "Loading........................"], {
+	await type(["> SET TERMINAL/BOOT"], {
 		lineWait: 1000
 	});
 
 	await type(
 		[
+			"Loading........................",
 			"Checking 'hlt' instruction... Ok.",
 			"Starting kswapd v 1.4.2.2",
 			"Real Time Clock Driver v1.09",
