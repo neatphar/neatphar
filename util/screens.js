@@ -31,10 +31,9 @@ async function boot() {
 	await type(
 		[
 			"Checking 'hlt' instruction... Ok.",
-			"Intel Pentium with F0 0F bug - workaround enabled..",
 			"Starting kswapd v 1.4.2.2",
 			"Real Time Clock Driver v1.09",
-			"Linux version 2.0.35 (root@localhost) (gcc version egcs-2.90.29\ 980515 (egcs-1.0.3 release))",
+			"Linux version 2.0.35 (root@localhost)",
 		],
 		{ lineWait: 150 }
 	);
