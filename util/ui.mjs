@@ -66,7 +66,7 @@ function registerHandlers() {
 
 	// Power
 	document.getElementById('switch').addEventListener('click', togglePower);
-	document.getElementById('slider').addEventListener('click', togglePower);
+	document.querySelector("#slider > label > span").addEventListener('click', togglePower);
 
 	// Other UI
 	document.getElementById('fullscreen').addEventListener('click', fullscreen);
