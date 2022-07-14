@@ -237,6 +237,7 @@ body.fullscreen #crt {
 	font-size: 2.5rem;
 	position: fixed;
 	width: 100%;
+	height: 100%;
 	left: 0;
 	top: 0;
 	z-index: 999;
@@ -408,6 +409,10 @@ body.fullscreen #fullscreen {
 
 body.fullscreen #fullscreen:hover {
 	opacity: 1;
+}
+
+body.fullscreen #fullscreen:active {
+	position: fixed;
 }
 
 button[data-theme="red"] {
