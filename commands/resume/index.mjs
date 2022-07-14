@@ -1,8 +1,8 @@
-import { type } from "../../util/io.js";
 import { off } from "../../util/power.js";
+import alert from "../../util/alert.js";
 
 async function command() {
-	await type(["Redirecting you to the Resume PDF. Bye."]);
+	await alert("Redirecting you to the Resume PDF.");
 	off();
 	window.location.href = '/resume.pdf';
 }
