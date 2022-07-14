@@ -10,25 +10,38 @@ const PW = "admin";
 async function boot() {
 	clear();
 
-	await type("Welcome to ECMA industries(TM) terminal", {
-		initialWait: 3000
+	await type([
+		 "             _       _           ",
+		 " ___ ___ ___| |_ ___| |_ ___ ___ ",
+		 "|   | -_| .'|  _| . |   | .'|  _|",
+		 "|_|_|___|__,|_| |  _|_|_|__,|_|  ",
+		 "                |_|              ",
+	], {
+		lineWait: 50
+	})
+
+	await type([" ", "Welcome to neatphar (TM) personal terminal"], {
+		initialWait: 2000
 	});
 
 	await type(["> SET TERMINAL/BOOT", "Loading........................"], {
 		lineWait: 1000
 	});
+
 	await type(
 		[
-			".....",
-			"Please wait........",
-			"..........",
+			"Checking 'hlt' instruction... Ok.",
+			"Intel Pentium with F0 0F bug - workaround enabled..",
+			"Starting kswapd v 1.4.2.2",
+			"Real Time Clock Driver v1.09",
+			"Linux version 2.0.35 (root@localhost) (gcc version egcs-2.90.29\ 980515 (egcs-1.0.3 release))",
 		],
-		{ lineWait: 250 }
+		{ lineWait: 150 }
 	);
 
 	await type(["OK.", " "]);
 
-	await type(["> SET TERMINAL/LOGON", "USER AUTHENTICATION CHECK"], {
+	await type(["> SET TERMINAL/LOGIN", "USER AUTHENTICATION CHECK"], {
 		lineWait: 1000,
 		finalWait: 3000
 	});
