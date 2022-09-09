@@ -10,7 +10,7 @@
 - 🌱 <samp>I'm currently learning how to harness my automation desires along with Linux experience into a **DevOps career**.</samp>
 - ✍️ <samp>I like music, would love to explore hidden parts of the world, and casually game.</samp>
 - ✉️ <samp>Feel free to contact [**me**](#-contacts) anytime!</samp>
-- 📄 <samp>Check out my [**portfolio**](#)!.</samp>
+- 📄 <samp>Check out my [**portfolio**](https://aboelmagd.me)!.</samp>
 <!-- - ⚡ <samp>Fun fact: ...</samp> -->
 
 ## 🛠 Tech Stack
