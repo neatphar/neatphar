@@ -6,9 +6,9 @@
 
 - 💡 &nbsp;<samp>An enthusiast that likes to **over-engineer** everything..</samp>
 - 💻 <samp>I like to code, automate, try everything new.</samp>
-- 🎓 <samp>I study engineering in **Mansoura University**.</samp>
-- 🌱 <samp>I'm currently learning how to harness my automation desires along with Linux experience into a **DevOps career**.</samp>
-- ✍️ <samp>I like music, would love to explore hidden parts of the world, and casually game.</samp>
+- 🎓 <samp>I study the MAS Program in **Hochschule Bonn-Rhein-Sieg**.</samp>
+- 🌱 <samp>I'm currently diving into the deeper sides of the **DevOps Culture** and learning more day by day.</samp>
+- ✍️ <samp>I like music, would love to explore hidden parts of the world, and casually gaming.</samp>
 - ✉️ <samp>Feel free to contact [**me**](#-contacts) anytime!</samp>
 - 📄 <samp>Check out my [**portfolio**](https://aboelmagd.me)!.</samp>
 <!-- - ⚡ <samp>Fun fact: ...</samp> -->
@@ -99,7 +99,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/neatphar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neatphar/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neatphar@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar@aboelmagd.me)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/431558158931197963)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neatphar/)
 
