@@ -7,11 +7,11 @@ async function command(args = "") {
 			break;
 	
 		case "phone":
-			await type(["Phone Number: +49 000 000 000"]);
+			await type(["Phone Number: +(49) 177-2708-6965"]);
 			break;
 	
 		case "address":
-			await type(["Address: Bonn, Germany."]);
+			await type(["Address: Düsseldorf, Germany."]);
 			break;
 		
 		default:

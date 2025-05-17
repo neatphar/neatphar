@@ -3,6 +3,7 @@ import { type } from "../../util/io.js";
 const output = [
 	"Core commands:",
 	"resume         Redirects to Omar Aboelmagd's resume.",
+	"projects       Show a list of projects developed by Omar.",
 	"contact        Provides contact information for Omar Aboelmagd.",
 	"hello          Just a simple Hello message.",
 	"help           Prints this message.",
