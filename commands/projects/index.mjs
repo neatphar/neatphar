@@ -2,7 +2,7 @@ import { type } from "../../util/io.js";
 
 const output = [
 	"Usage: projects [PROJECT NAME] in order to go to the GitHub repository of the project.",
-	"",
+	" ",
 	"Hanzaker: A search engine for students in Egyptian school curriculum.",
 	"Xcessible: A job hunting platform for people with disabilities.",
 	"Telegram Monitor Bot: A personal customized monitor that utilizes Telegram as a notification platform.",
