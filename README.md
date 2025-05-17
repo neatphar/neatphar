@@ -4,9 +4,9 @@
 [![GitHub neatphar](https://img.shields.io/github/followers/neatphar?label=follow&style=social)](https://github.com/neatphar?tab=followers)
 
 
-- 💡 &nbsp;<samp>An enthusiast that likes to **over-engineer** everything..</samp>
+- 💡 &nbsp;<samp>An enthusiast who gets excited over new technologies too easily..</samp>
 - 💻 <samp>I like to code, automate, try everything new.</samp>
-- 🌱 <samp>I'm currently diving into the deeper sides of the **DevOps Culture** and learning more day by day.</samp>
+- 🌱 <samp>I'm currently *too* deep into the **DevOps Culture** but still learning more day by day.</samp>
 - ✍️ <samp>I like music, would love to explore hidden parts of the world, and casually gaming.</samp>
 - ✉️ <samp>Feel free to contact [**me**](#-contacts) anytime!</samp>
 - 📄 <samp>Check out my [**portfolio**](https://aboelmagd.me)!.</samp>
